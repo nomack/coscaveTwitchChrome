@@ -1,5 +1,5 @@
 var chaine = 'coscave',
-    checkDelay = 1000 * 3,
+    checkDelay = 1000 * 60 * 1,
     notif = {
         title: 'CosCave',
         message: 'La CosCave est en live !',
