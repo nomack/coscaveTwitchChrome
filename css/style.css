@@ -59,6 +59,7 @@ table {
 }
     .social-item {
         display: table-cell;
+        width: 33.33333%;
     }
 
     .social-link:link,
