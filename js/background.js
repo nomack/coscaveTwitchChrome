@@ -34,6 +34,8 @@ function checkStatus()
                 // changement du titre et de l'icône du plugin
                 chrome.browserAction.setTitle({title: messages.streamOff});
                 chrome.browserAction.setIcon({path: icons.streamOff});
+
+                doNotif = true;
             }
         }
     };
